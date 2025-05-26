@@ -44,9 +44,4 @@
 
 ## 👨‍💻 Autor
 
-**Tu Nombre**  
-GitHub: [@tu-usuario](https://github.com/tu-usuario)
-
-## 📄 Licencia
-
-Este proyecto está bajo la licencia MIT.
+Practica en base a un video de Youtube
